@@ -1,0 +1,11 @@
+* Funky Launcher Support *
+
+These are support classes required to get Funky Launcher to compile. Please use the ics_mr1 branch with the ics branch of
+Funky Launcher.
+
+--
+
+* Disclaimer *
+
+Funky Android Ltd. offer no warranty over this code. We have modified the stock launcher and maintained the original copyright
+messages where they existed.
